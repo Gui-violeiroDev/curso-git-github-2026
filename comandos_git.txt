@@ -1,0 +1,7 @@
+Git init .  inicializa aquela pasta como especial e agora ela pode ser versalizada
+Git status - como esta aquele estado 
+Git add   adiciona para novos commit
+Git commit -m finaliza o commit 
+Git log   ve qual os commit que foram feitos na ordem de mais antigo para o mais novo 
+Git config -global user.name    usado para configurar nome no git 
+Git config -global user.email  usado para configurar email 

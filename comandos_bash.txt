@@ -1,0 +1,4 @@
+Mkdir - Cria diretórios
+Ls - descobre oq existe dentro do diretório 
+Ls -a   - descobre ate os itens ocultos 
+Rm -rf   - apaga diretoria ou conteúdo
