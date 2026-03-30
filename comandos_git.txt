@@ -3,5 +3,15 @@ Git status - como esta aquele estado
 Git add   adiciona para novos commit
 Git commit -m finaliza o commit 
 Git log   ve qual os commit que foram feitos na ordem de mais antigo para o mais novo 
-Git config -global user.name    usado para configurar nome no git 
-Git config -global user.email  usado para configurar email 
+Git config --global user.name    usado para configurar nome no git 
+Git config --global user.email  usado para configurar email 
+Git diff - oq tem de diferente 
+Git diff . Qual a diferença de todos os arquivos nao so do arquivo em expecifico
+Git reset  -- da um rollback na acao do git add 
+
+
+
+1 + 1 = 2 
+2+ 2 = 4
+
+Isso é apenas para conseguir continuar 
