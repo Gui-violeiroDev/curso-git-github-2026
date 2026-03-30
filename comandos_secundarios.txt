@@ -1,3 +1,7 @@
 Git branch  mostra em qual nível de branch vc esta 
 Git checkout -b  sessão para nomear o nome da branch   --- cria uma branch nova 
 ( detalhe importante para o retorno a outra branch vc usa o git checkout main por exemplo sem o uso do -b para ele so é usado quando ainda nao existe uma branch com aquele nome específico)
+
+
+Comando mais genéricos 
+Git merge - vc esta misturando branchs 
