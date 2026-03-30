@@ -5,3 +5,6 @@ Git checkout -b  sessão para nomear o nome da branch   --- cria uma branch nova
 
 Comando mais genéricos 
 Git merge - vc esta misturando branchs 
+
+
+Quelo Lola quer rola do papai 
