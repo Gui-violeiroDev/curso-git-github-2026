@@ -4,3 +4,5 @@ curso para inicantes aprenderem a trabalhar com versionamento de codigo e reposi
 gostei do conteudo
 vou compartilhar
 [segue o link curso] (https://youtube.com/@teomewhy)
+alem do youtube se liga em tudo vai rolar no site 
+teomewhy.com.br
